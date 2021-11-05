@@ -36,3 +36,14 @@
 
 13. How can AI impact economy?
 	It can give advantages to enterprises who use the cutting edge technology
+14. What are some technologies that could be incorporated by business using blockchain?
+	IoT and AI 
+
+15. What are some disadvantages of cloud computing?
+	Data loss, leak, vulnerabilities on shared environments.
+
+16. What are some disadvantages of digital currencies?
+	cybersecutity issues and little regulations.
+
+17. What are some disadvantages of blockchain?
+	Some systems consume too much energy, not completely secure, users are their own bank
