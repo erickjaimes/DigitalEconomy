@@ -1,0 +1,17 @@
+Impact of the folowing subjects on digital economy
+
+Describe trends in AI uses: as mainstream in efficiency and productivity gains.
+
+Automation and augmentation of work with machine learning algorithms.
+
+the characteristics of big data and cloud computing
+
+What is Blockchain?
+Blockchain in simple words is a system where every block contains a certain number of transactions, and when a transaction is made this is added to every participant(this is known as Distributed Ledger Technology). This has a great impact on digital economy because of the facilities it provides, like validating the transactions and removing other third parties that could delay the transaction.
+What is hyperledger
+
+Financial transactions
+
+Digital currencies
+
+Technical obstacles and political challenges 
