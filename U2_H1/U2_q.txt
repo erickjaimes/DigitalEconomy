@@ -36,6 +36,7 @@
 
 13. How can AI impact economy?
 	It can give advantages to enterprises who use the cutting edge technology
+	
 14. What are some technologies that could be incorporated by business using blockchain?
 	IoT and AI 
 
