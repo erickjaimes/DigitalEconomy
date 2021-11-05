@@ -9,9 +9,15 @@ the characteristics of big data and cloud computing
 What is Blockchain?
 Blockchain in simple words is a system where every block contains a certain number of transactions, and when a transaction is made this is added to every participant(this is known as Distributed Ledger Technology). This has a great impact on digital economy because of the facilities it provides, like validating the transactions and removing other third parties that could delay the transaction.
 What is hyperledger
-
+An easy way to explaibn hyperledger is that it is a tool to aid developers in the creation of blockchain and similar applications. This imapcts the digital economy because it can help businesses to improve their transaction system in performance and overall efficiency. Some of the companies that have used hyperledger in their projects are General Electric, IBM, and Oracle.
 Financial transactions
 
 Digital currencies
 
 Technical obstacles and political challenges 
+
+
+References:
+https://searchcio.techtarget.com/definition/Hyperledger
+https://www.euromoney.com/learning/blockchain-explained/what-is-blockchain
+https://www.hyperledger.org/learn/blockchain-showcase
