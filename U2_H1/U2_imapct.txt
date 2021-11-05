@@ -1,11 +1,12 @@
-Impact of the folowing subjects on digital economy
+
+Impact of the folowing subjects on digital economy ---- Erick Jaimes
 
 Describe trends in AI uses: as mainstream in efficiency and productivity gains.
-
+AI in economy can have a huge impact, the main one is that it can help enterprises to a lead in the economic arena by providing them with a considerable competitive advantage over the ones who have not adopted it yet or are not using the cutting-edge technology.
 Automation and augmentation of work with machine learning algorithms.
-
+With the automation and augmentation of machine learning algorithms now businesses can center on building or implmenting new technologies that could have previously taken them time to build from the ground.
 the characteristics of big data and cloud computing
-
+With the continous growth of internet usage and data generation, cloud computing and the analysis of big data could become really important in the digital economy. This is because now digital economy is all about the information that can be gathered from data, and cloud computing is the way to host those services as well as to process the data.
 What is Blockchain?
 Blockchain in simple words is a system where every block contains a certain number of transactions, and when a transaction is made this is added to every participant(this is known as Distributed Ledger Technology). This has a great impact on digital economy because of the facilities it provides, like validating the transactions and removing other third parties that could delay the transaction.
 What is hyperledger
@@ -21,3 +22,10 @@ References:
 https://searchcio.techtarget.com/definition/Hyperledger
 https://www.euromoney.com/learning/blockchain-explained/what-is-blockchain
 https://www.hyperledger.org/learn/blockchain-showcase
+https://www.investopedia.com/terms/d/digital-currency.asp
+https://firstmonday.org/article/view/474/830
+https://hbr.org/2019/11/how-should-we-measure-the-digital-economy
+https://101blockchains.com/blockchain-roadmap/
+https://blockchain-automation-framework.readthedocs.io/en/latest/
+https://publications.iadb.org/en/cloud-computing-opportunities-and-challenges-sustainable-economic-development-latin-america-and
+https://ourworld.unu.edu/en/how-ai-is-changing-the-global-economy
