@@ -4,4 +4,35 @@
 2.What are some of the facilities blockchain provides?
 	being involved directly in the transactions and removing other third parties that could delay the transaction, etc
 
-3. 
+3. What is the tool that aids developers in the creation of blockchain systems and similar applications?
+	Hyperledger
+
+4. How can hyperledger help the transactions of businesses?
+	It can make the transaction system improve in performance and overall efficiency.
+
+5. What are some of the companies that have used hyperledger in their projects?
+	General Electric, IBM, and Oracle
+
+6. What are some of the implications of digital curriencies in economy?
+	since this is done without third parties and curriencies being untraceable it could lead to problems like illegal transfers or could trouble taxations
+
+7. Name an example of how digital curriencies be an obstacle
+	how volatile these curriencies can be, if the implementation of this is done in large scale and the value changes too quickly it could affect a lot of people and businesses
+
+8.What are some of the benefits of automation of work?
+	Businesses can now focus on implementing or creating new technologies or services with the automation of certain algorithms.
+
+9. Why is big data important in the digital economy?
+	Because of the great ammounts of data that are gathered and can be analyzed to obtain valuable information that can impact the economy
+
+10. Why is cloud computing important in the digital economy?
+	Because it allows access to great computing power to process the big data for cheaper cost than building your own infraestructure.
+
+11. What is a disadvantage of digital currencies?
+	How volatile they are
+
+12.What is a disadvantage of digital transactions?
+	Illegal transfers
+
+13. How can AI impact economy?
+	It can give advantages to enterprises who use the cutting edge technology
