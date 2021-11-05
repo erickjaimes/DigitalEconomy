@@ -1,0 +1,7 @@
+1. What is the technology in blockchain that is a decentralised database managed by multiple participants?
+	Distributed Ledger Technology
+
+2.What are some of the facilities blockchain provides?
+	being involved directly in the transactions and removing other third parties that could delay the transaction, etc
+
+3. 
