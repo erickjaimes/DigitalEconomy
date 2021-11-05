@@ -11,11 +11,11 @@ Blockchain in simple words is a system where every block contains a certain numb
 What is hyperledger
 An easy way to explaibn hyperledger is that it is a tool to aid developers in the creation of blockchain systems and similar applications. This imapcts the digital economy because it can help businesses to improve their transaction system in performance and overall efficiency. Some of the companies that have used hyperledger in their projects are General Electric, IBM, and Oracle.
 Financial transactions
-
+Many financial transactions are made daily, and this becomes an area of opportinity for the digital economy to grow. Helping businesses implement digital transactions using a blockchain system could be a way to make the user's experience more satisfactory with the efficiency and speed this type of transactions are able to bring to the table.
 Digital currencies
-
+The benefits of digital curriencies in the digital economy directly affect users, this is because of aspects like no need of intemediaries for transactions, physical defects that common currency may have, faster transaction times and less costly, etc. But there are some other implications in the econony, since this is done without third parties and curriencies being untraceable it could lead to problems like illegal transfers or could trouble taxations.
 Technical obstacles and political challenges 
-
+An example of an obstacle in digital transactions and economy are NFT's. The buying and selling of these has led to some people to think that money laundering could be involved and this is something that is hard to keep track of. There is also the aspect of how volatile these curriencies can be, if the implementation of this is done in large scale and the value changes too quickly it could affect a lot of people and businesses.
 
 References:
 https://searchcio.techtarget.com/definition/Hyperledger
